@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --principal-color: #1affd5;
+  --background-color: #070814;
+  --container-width-lg: 75%;
+  --container-width-md: 83%;
+  --container-width-sg: 90%;
+  --transition: all 400ms ease;
+}
+
+body{
+  background-image: url('../public/paisaje.jpeg');
+}
